@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+}
+
+.note {
+  position: absolute;
+  z-index: 10;
+  right: 0;
+  top: 0;
+  padding: 5px;
+  background: #eee;
+  max-width: 360px;
+}
